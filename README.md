@@ -24,7 +24,7 @@
 <div align="center">
 
 • Repository of my project called "**The Content-Cove**", a fictitious \
-website for trailers and synopses of movies, games and anime.
+website for trailers and synopses of movies, games, anime and much more!
 </div>
 
 <div align="center">
