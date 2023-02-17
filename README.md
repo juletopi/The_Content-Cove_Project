@@ -37,3 +37,8 @@ website for trailers and synopses of movies, games, anime and much more!
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
+
+<div align="left">
+
+### 🔗 Link: https://juletopi.github.io/The_Content-Cove_Project/
+</div>
