@@ -19,6 +19,9 @@
 <div align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/76459155/219552460-47e99139-3f4b-41aa-a0bd-d592721062ae.png" alt="TheContentCove-pic" width="124px"></a>
 <h2 align="center">The Content-Cove Project 🎞️</h2>
+
+#### 🔗 Link: https://juletopi.github.io/The_Content-Cove_Project/
+
 </div>
 
 <div align="center">
@@ -45,8 +48,3 @@ website for trailers and synopses of movies, games, anime and much more!
 
 > **Warning** \
 > This is a project **IN PROGRESS**
-
-<div align="left">
-
-### 🔗 Link: https://juletopi.github.io/The_Content-Cove_Project/
-</div>
