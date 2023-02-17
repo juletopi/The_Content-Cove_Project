@@ -18,17 +18,19 @@
 
 <div align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/76459155/219547137-abef027f-86dd-4942-b1ed-cd06676389ff.png" alt="TheContentCove-pic" width="116px"></a>
-<h2 align="center">The Content-Cove Project 👩‍💻</h2>
+<h2 align="center">The Content-Cove Project 🎞️</h2>
 </div>
 
 <div align="center">
 
-• Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, \
-ministradas pelo professor [**Clayton Ferraz**](https://www.linkedin.com/in/claytonferraz/), utilizando o **Visual Studio** e a \
-linguagem **CSharp** como ferramentas de aprendizado.
+• Repository of my project called "**The Content-Cove**", a fictitious \
+website for trailers and synopses of movies, games and anime.
 </div>
 
 <div align="center">
-<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VisualStudioIDE-badge" style="max-width: 100%;"></a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/Made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-VSCode%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VSCodeIDE-badge" style="max-width: 100%;"></a>
+<a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/Made%20with%20language:-HTML%20-gray.svg?colorA=df9357&amp;colorB=d17c37&amp;style=for-the-badge" alt="HTMLLanguage-badge" style="max-width: 100%;"></a>
+
+<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Made%20with%20language:-CSS%20-gray.svg?colorA=4983c5&amp;colorB=206fca&amp;style=for-the-badge" alt="CSSLanguage-badge" style="max-width: 100%;"></a>
+<a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/Made%20with%20language:-JavaScript%20-gray.svg?colorA=ccaa44&amp;colorB=ca9c0d&amp;style=for-the-badge" alt="JavaScriptLanguage-badge" style="max-width: 100%;"></a>
 </div>
