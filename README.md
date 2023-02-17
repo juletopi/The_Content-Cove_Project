@@ -17,7 +17,7 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/219547137-abef027f-86dd-4942-b1ed-cd06676389ff.png" alt="TheContentCove-pic" width="116px"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/76459155/219552460-47e99139-3f4b-41aa-a0bd-d592721062ae.png" alt="TheContentCove-pic" width="116px"></a>
 <h2 align="center">The Content-Cove Project 🎞️</h2>
 </div>
 
@@ -34,3 +34,6 @@ website for trailers and synopses of movies, games and anime.
 <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Made%20with%20language:-CSS%20-gray.svg?colorA=615484&amp;colorB=483675&amp;style=for-the-badge" alt="CSSLanguage-badge" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/Made%20with%20language:-JavaScript%20-gray.svg?colorA=ccaa44&amp;colorB=ca9c0d&amp;style=for-the-badge" alt="JavaScriptLanguage-badge" style="max-width: 100%;"></a>
 </div>
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
