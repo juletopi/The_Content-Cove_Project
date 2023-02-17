@@ -28,9 +28,9 @@ website for trailers and synopses of movies, games and anime.
 </div>
 
 <div align="center">
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-VSCode%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VSCodeIDE-badge" style="max-width: 100%;"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-VSCode%20-gray.svg?colorA=3d85c6&amp;colorB=0b5394&amp;style=for-the-badge" alt="VSCodeIDE-badge" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/Made%20with%20language:-HTML%20-gray.svg?colorA=df9357&amp;colorB=d17c37&amp;style=for-the-badge" alt="HTMLLanguage-badge" style="max-width: 100%;"></a>
 
-<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Made%20with%20language:-CSS%20-gray.svg?colorA=4983c5&amp;colorB=206fca&amp;style=for-the-badge" alt="CSSLanguage-badge" style="max-width: 100%;"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Made%20with%20language:-CSS%20-gray.svg?colorA=615484&amp;colorB=483675&amp;style=for-the-badge" alt="CSSLanguage-badge" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/Made%20with%20language:-JavaScript%20-gray.svg?colorA=ccaa44&amp;colorB=ca9c0d&amp;style=for-the-badge" alt="JavaScriptLanguage-badge" style="max-width: 100%;"></a>
 </div>
