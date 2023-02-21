@@ -2,6 +2,7 @@
 ❗ ➤ References used in this Repository:
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://github.com/gepser/markdown-progress
 🔗 • https://shields.io
 🔗 • https://emoji.gg
 🔗 • https://getemoji.com
@@ -77,6 +78,8 @@ website for trailers and synopses of movies, games, anime and much more!
 
 > **Warning** \
 > This is a project **IN PROGRESS**
+>
+> **Status:** <img align="center" src="https://geps.dev/progress/10">
 
 <div align="left">
 
@@ -101,14 +104,8 @@ website for trailers and synopses of movies, games, anime and much more!
 
 ## 📋 About The Project
 
-<div align="center">
-<h6 align="center">Desktop Mode Image ↴</h6>
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="MarioMovie-pic" width="560px"></a>
-<h6 align="center">Mobile Mode Image ↴</h6>
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="MarioMovie-pic" width="260px"></a>
-
-<br>
-<br>
+> <img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="MarioMovie-pic" style="width: 29%;">
+> <img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="MarioMovie-pic" style="width: 69%;">
 
 <div align="left">
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
@@ -123,3 +120,11 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
+
+<!-- THANK YOU, GOODBYE -->
+
+----
+
+<div align="center">
+Made with 🧡 by Juletopi
+</div>
