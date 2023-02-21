@@ -106,16 +106,20 @@ website for trailers and synopses of movies, games, anime and much more!
 
 > <img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="MarioMovie-pic" style="width: 29%;">
 > <img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="MarioMovie-pic" style="width: 69%;">
+<br>
 
 <div align="left">
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+"**The Content-Cove**" is a project about a website for trailers and information about movies, games and anime.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Originally, this was a project created by the [Irmãos Dev em Dobro](https://www.youtube.com/c/devemdobro), in the "**Semana Dev em Dobro**" (Double Dev Week), after the end of this dev week, I decided to take this project to another level.
+
+What main implementations will be made:
+* A main "**Home**" with information about the site and a section with cards of movies, games and anime to choose from.
+* Different custom web pages for each of the movies, games, and anime previously present on the cards.
+
+As this is kinda of a big project, and at the current time I am a beginner programmer, as I improve my skills I'll be going back to this project.
+
 </div>
 
 <h6 align="left">
@@ -129,6 +133,9 @@ Of course, no one template will serve all projects since your needs may be diffe
 ## 🛠 Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
+<h6 align="left">
+<a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
