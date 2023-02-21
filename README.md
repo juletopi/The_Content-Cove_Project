@@ -176,7 +176,7 @@ The use of browsers with support for experience with GitHub, and using the lates
 <sub><b>Júlio Cézar | Juletopi</b></sub></a>
 </div>
 
-</td><td align="left">
+</td><td valign="top" width="40%">
 
 <div align="left">
 
