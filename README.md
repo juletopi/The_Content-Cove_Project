@@ -103,7 +103,7 @@ website for trailers and synopses of movies, games, anime and much more!
         - [ ] Add Resposive
 - [ ] Multi-language Support ↴
     - [X] English
-    - [X] Spanish
+    - [ ] Spanish
     - [ ] Brazilian Portuguese
 </div>
 
