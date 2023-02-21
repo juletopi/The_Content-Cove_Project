@@ -57,7 +57,7 @@ website for trailers and synopses of movies, games, anime and much more!
 <p align="center">
 <a href="#-project-progress">Project Progress</a> &#xa0; | &#xa0;
 <a href="#-about-the-project">About the Project</a> &#xa0; | &#xa0;
-<a href="#">Example</a>
+<a href="#-how-to-use">How to Use</a>
 </p>
 <a href="#-prerequisites">Prerequisites</a> &#xa0; | &#xa0;
 <a href="#-author">Author</a>
@@ -131,7 +131,7 @@ Originally, this was a project created by the [Irmãos Dev em Dobro](https://www
 
 What main implementations will be made:
 * A main "**Home**" with information about the site and a section with cards of movies, games and anime to choose from.
-* Different **custom web pages** for each of the movies, games, and anime previously present on the cards.
+* Different **custom webpages** for each of the movies, games, and anime previously present on the cards.
 
 As this is kinda of a big project, and at the current time I am a beginner programmer, as I improve my skills I'll be going back to this project.
 
@@ -144,6 +144,13 @@ As this is kinda of a big project, and at the current time I am a beginner progr
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
 
 <div align="left">
+
+## ❓ How to Use
+
+You can access the website by the link: https://juletopi.github.io/The_Content-Cove_Project/.
+
+<h6 align="left">
+<a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 
 ## 🛠 Prerequisites
 
