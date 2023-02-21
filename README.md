@@ -79,7 +79,7 @@ website for trailers and synopses of movies, games, anime and much more!
 > **Warning** \
 > This is a project **IN PROGRESS**
 >
-> **Status:** <img align="center" src="https://geps.dev/progress/10">
+> **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/10"></a>
 
 <div align="left">
 
@@ -120,6 +120,15 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
+
+<div align="left">
+
+## 🛠 Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
