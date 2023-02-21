@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/github/license/juletopi/The_Content-Cove_Project" alt="MITLiscence-badge">
 <img src="https://github-visitors-badge.glitch.me/badge?page_id=The_Content-Cove_Project.github-visitors-badge" alt="PageVisitors-badge">
 </div>
-
 <br>
 
 <!-- PRESENTATION -->
@@ -20,7 +19,7 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/76459155/219552460-47e99139-3f4b-41aa-a0bd-d592721062ae.png" alt="TheContentCove-pic" width="124px"></a>
 <h2 align="center">The Content-Cove Project 🎞️</h2>
 
-#### 🔗 Link: https://juletopi.github.io/The_Content-Cove_Project/
+#### <a href="https://juletopi.github.io/The_Content-Cove_Project/"> **Explore the page by clicking here »**</a>
 
 </div>
 
@@ -39,12 +38,53 @@ website for trailers and synopses of movies, games, anime and much more!
 </div>
 
 <div align="center">
+<a href="https://github.com/juletopi/The_Content-Cove_Project">View Demo</a>
+•
+<a href="https://github.com/juletopi/The_Content-Cove_Project/issues">Report Bug</a>
+•
+<a href="https://github.com/juletopi/The_Content-Cove_Project/discussions">Request Feature</a>
+</div>
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
+
+<!-- SUMMARY -->
+
+<div align="center">
+
+## Sumário 🧾
+<p align="center">
+<a href="#-professor">Professor</a> &#xa0; | &#xa0;
+<a href="#1-coment%C3%A1rios-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-e-comandos-do-console">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
+<a href="#2-conceitos-de-ifelse">Conceitos Aprendidos 2</a>
+</p>
+<a href="#3-conceitos-de-switchcase">Conceitos Aprendidos 3</a> &#xa0; | &#xa0;
+<a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a>
+</p>
+</div>
+
+<div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
 
 <br>
 <br>
 
+<!-- PROJECT PROGRESS -->
+
 <div align="center">
 
 > **Warning** \
 > This is a project **IN PROGRESS**
+
+<div align="left">
+
+## ✅ Project Progress
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+</div>
