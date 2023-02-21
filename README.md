@@ -138,7 +138,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 </td><td align="left">
 
-<div align="center">
+<div align="left">
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn-icon"> LinkedIn - [Júlio Cézar P. Camargo](https://www.linkedin.com/in/julio-cezar-pereira-camargo/)
 - <img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="20" alt="Facebook-icon"> Email - [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)
