@@ -154,7 +154,7 @@ You can access the website by the link: https://juletopi.github.io/The_Content-C
 
 ## 🛠 Prerequisites
 
-To access the website all you need is a **internet browser**. 
+To access the website all you need is a **internet browser** and internet connection.
 
 The use of browsers with support for experience with GitHub, and using the latest version of the browser like **Chrome**, **Edge**, **Firefox** or **Safari**, is recommended.
 
