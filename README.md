@@ -121,6 +121,34 @@ Of course, no one template will serve all projects since your needs may be diffe
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
+
+<div align="left">
+
+## 👤 Autor
+
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/juletopi">
+        <img src="https://user-images.githubusercontent.com/76459155/220271784-9f930c36-c370-4518-9b56-604627c6e2b5.png" width="120px;" alt="JuletopiAvatar-pic"/><br>
+        <sub>
+          <b>Júlio Cézar | Juletopi</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn-icon"> LinkedIn - [Júlio Cézar P. Camargo](https://www.linkedin.com/in/julio-cezar-pereira-camargo/)
+- <img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="20" alt="Facebook-icon"> Email - [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)
+- <img align="center" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="20" alt="WhatsApp-icon"> Whatsapp - [+55 (69) 9 9360-6894](http://api.whatsapp.com/send?phone=5569993606894)
+- <img align="center" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="20" alt="Instagram-icon"> Instagram - [@juletopi](https://www.instagram.com/juletopi/)
+
+<h6 align="left">
+<a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
+
 <!-- THANK YOU, GOODBYE -->
 
 ----
