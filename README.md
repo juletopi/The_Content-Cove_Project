@@ -83,13 +83,28 @@ website for trailers and synopses of movies, games, anime and much more!
 
 <div align="left">
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Movie/Game/Anime Page Templates ↴
+    - [X] HTML, CSS, JavaScript ↴
+        - [X] Add Header and Navigation
+        - [X] Add Main Info.
+        - [X] Add Main Image
+        - [ ] Add Video Modal
+        - [ ] Add Linking
+        - [ ] Add Styling
+        - [ ] Add Resposiveness
+- [ ] Home Page ↴
+    - [ ] HTML, CSS, JavaScript ↴
+        - [ ] Add Header and Navigation
+        - [ ] Add Main Info.
+        - [ ] Add Main Image
+        - [ ] Add Content Cards
+        - [ ] Add Linking
+        - [ ] Add Styling
+        - [ ] Add Resposive
+- [X] Multi-language Support ↴
+    - [X] English
+    - [X] Spanish
+    - [ ] Brazilian Portuguese
 </div>
 
 <h6 align="left">
