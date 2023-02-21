@@ -20,7 +20,7 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/76459155/219552460-47e99139-3f4b-41aa-a0bd-d592721062ae.png" alt="TheContentCove-pic" width="124px"></a>
 <h2 align="center">The Content-Cove Project 🎞️</h2>
 
-#### <a href="https://juletopi.github.io/The_Content-Cove_Project/"> **Explore the page by clicking here »**</a>
+#### <a href="https://juletopi.github.io/The_Content-Cove_Project/"> **Explore the website by clicking here »**</a>
 
 </div>
 
