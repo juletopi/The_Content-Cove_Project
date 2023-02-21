@@ -52,7 +52,7 @@ website for trailers and synopses of movies, games, anime and much more!
 
 <div align="center">
 
-## Sumário 🧾
+## Summary 🧾
 <p align="center">
 <a href="#-project-progress">Project Progress</a> &#xa0; | &#xa0;
 <a href="#">Example</a> &#xa0; | &#xa0;
@@ -94,3 +94,26 @@ website for trailers and synopses of movies, games, anime and much more!
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
+
+<!-- ABOUT THE PROJECT -->
+
+<div align="left">
+
+## 📋 About The Project
+
+<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="MarioMovie-pic" width="700px"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="MarioMovie-pic" width="400px"></a>
+
+<div align="left">
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+</div>
+
+<h6 align="left">
+<a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
