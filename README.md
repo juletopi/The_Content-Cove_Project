@@ -154,5 +154,9 @@ Of course, no one template will serve all projects since your needs may be diffe
 ----
 
 <div align="center">
+<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220281675-4c3d3f10-b3e3-4175-ad61-620138f66ce9.png" align="center" width="600" height="90" alt="ThanksForVisiting(Orange)-pic"/></a>
+</div>
+
+<div align="center">
 Made with 🧡 by Juletopi
 </div>
