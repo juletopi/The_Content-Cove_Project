@@ -116,7 +116,7 @@ Originally, this was a project created by the [Irmãos Dev em Dobro](https://www
 
 What main implementations will be made:
 * A main "**Home**" with information about the site and a section with cards of movies, games and anime to choose from.
-* Different custom web pages for each of the movies, games, and anime previously present on the cards.
+* Different **custom web pages** for each of the movies, games, and anime previously present on the cards.
 
 As this is kinda of a big project, and at the current time I am a beginner programmer, as I improve my skills I'll be going back to this project.
 
@@ -132,7 +132,9 @@ As this is kinda of a big project, and at the current time I am a beginner progr
 
 ## 🛠 Prerequisites
 
-To access the website all you need is a internet browser. The use of browsers with support for experience with GitHub, and using the latest version of the browser like Chrome, Edge, Firefox or Safari, is recommended.
+To access the website all you need is a **internet browser**. 
+
+The use of browsers with support for experience with GitHub, and using the latest version of the browser like **Chrome**, **Edge**, **Firefox** or **Safari**, is recommended.
 
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
