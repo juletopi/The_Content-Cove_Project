@@ -54,22 +54,24 @@ website for trailers and synopses of movies, games, anime and much more!
 
 ## Sumário 🧾
 <p align="center">
-<a href="#-professor">Professor</a> &#xa0; | &#xa0;
-<a href="#1-coment%C3%A1rios-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-e-comandos-do-console">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
-<a href="#2-conceitos-de-ifelse">Conceitos Aprendidos 2</a>
+<a href="#-project-progress">Project Progress</a> &#xa0; | &#xa0;
+<a href="#">Example</a> &#xa0; | &#xa0;
+<a href="#">Example</a>
 </p>
-<a href="#3-conceitos-de-switchcase">Conceitos Aprendidos 3</a> &#xa0; | &#xa0;
-<a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a>
+<a href="#">Example</a> &#xa0; | &#xa0;
+<a href="#">Example</a>
 </p>
 </div>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
 
-<br>
-<br>
-
 <!-- PROJECT PROGRESS -->
+
+<div align="left">
+
+## ✅ Project Progress
+</div>
 
 <div align="center">
 
@@ -77,8 +79,6 @@ website for trailers and synopses of movies, games, anime and much more!
 > This is a project **IN PROGRESS**
 
 <div align="left">
-
-## ✅ Project Progress
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -88,3 +88,9 @@ website for trailers and synopses of movies, games, anime and much more!
     - [ ] Chinese
     - [ ] Spanish
 </div>
+
+<h6 align="left">
+<a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
