@@ -83,8 +83,8 @@ website for trailers and synopses of movies, games, anime and much more!
 
 <div align="left">
 
-- [x] Movie/Game/Anime Page Templates ↴
-    - [X] HTML, CSS, JavaScript ↴
+- [ ] Movie/Game/Anime Page Templates ↴
+    - [ ] HTML, CSS, JavaScript ↴
         - [X] Add Header and Navigation
         - [X] Add Main Info.
         - [X] Add Main Image
@@ -101,7 +101,7 @@ website for trailers and synopses of movies, games, anime and much more!
         - [ ] Add Linking
         - [ ] Add Styling
         - [ ] Add Resposive
-- [X] Multi-language Support ↴
+- [ ] Multi-language Support ↴
     - [X] English
     - [X] Spanish
     - [ ] Brazilian Portuguese
