@@ -132,7 +132,7 @@ As this is kinda of a big project, and at the current time I am a beginner progr
 
 ## 🛠 Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To access the website all you need is a internet browser. The use of browsers with support for experience with GitHub, and using the latest version of the browser like Chrome, Edge, Firefox or Safari, is recommended.
 
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
@@ -142,7 +142,7 @@ This is an example of how to list things you need to use the software and how to
 
 <div align="left">
 
-## 👤 Autor
+## 👤 Author
 
 <table><tr><td valign="top" width="33%">
 
