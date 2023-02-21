@@ -190,7 +190,7 @@ The use of browsers with support for experience with GitHub, and using the lates
 ----
 
 <div align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220281675-4c3d3f10-b3e3-4175-ad61-620138f66ce9.png" align="center" width="600" height="120" alt="ThanksForVisiting(Orange)-pic"/></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220281675-4c3d3f10-b3e3-4175-ad61-620138f66ce9.png" align="center" width="600" height="90" alt="ThanksForVisiting(Orange)-pic"/></a>
 </div>
 
 <div align="center">
