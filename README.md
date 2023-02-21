@@ -59,8 +59,8 @@ website for trailers and synopses of movies, games, anime and much more!
 <a href="#-about-the-project">About the Project</a> &#xa0; | &#xa0;
 <a href="#">Example</a>
 </p>
-<a href="#">Example</a> &#xa0; | &#xa0;
-<a href="#">Example</a>
+<a href="#-prerequisites">Prerequisites</a> &#xa0; | &#xa0;
+<a href="#-author">Author</a>
 </p>
 </div>
 
