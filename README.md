@@ -89,9 +89,9 @@ website for trailers and synopses of movies, games, anime and much more!
         - [X] Add Main Info.
         - [X] Add Main Image
         - [ ] Add Video Modal
-        - [ ] Add Linking
-        - [ ] Add Styling
-        - [ ] Add Resposiveness
+        - [X] Add Linking
+        - [X] Add Styling
+        - [X] Add Responsiveness
 - [ ] Home Page ↴
     - [ ] HTML, CSS, JavaScript ↴
         - [ ] Add Header and Navigation
@@ -100,7 +100,7 @@ website for trailers and synopses of movies, games, anime and much more!
         - [ ] Add Content Cards
         - [ ] Add Linking
         - [ ] Add Styling
-        - [ ] Add Resposive
+        - [ ] Add Responsiveness
 - [ ] Multi-language Support ↴
     - [X] English
     - [ ] Spanish
