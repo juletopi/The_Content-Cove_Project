@@ -79,11 +79,11 @@ website for trailers and synopses of movies, games, anime and much more!
 > **Warning** \
 > This is a project **IN PROGRESS**
 >
-> **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/10"></a>
+> **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/25?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e"></a>
 
 <div align="left">
 
-- [ ] Movie/Game/Anime Page Templates ↴
+- [ ] Content Templates ↴
     - [ ] HTML, CSS, JavaScript ↴
         - [X] Add Header and Navigation
         - [X] Add Main Info.
