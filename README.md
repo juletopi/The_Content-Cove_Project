@@ -119,8 +119,6 @@ website for trailers and synopses of movies, games, anime and much more!
 
 ## 📋 About The Project
 
-> <h6> &#8199;&#8199;&#8199;&#8199;&#8199;&#8199; Mobile ↴ &#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&#8199; Desktop ↴ </h6>
->   
 > <img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="MarioMovie-pic" style="width: 29%;">
 > <img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="MarioMovie-pic" style="width: 69%;">
 <br>
