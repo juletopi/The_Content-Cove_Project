@@ -136,8 +136,8 @@ with cards of movies, games and anime to choose from.
 * Different **custom webpages** for each of the movies, games, \
 and anime previously present on the cards.
 
-As this is kinda of a big project, and at the current time I am a beginner programmer, as I improve \
-my skills I'll be going back to this project, and making new implementations.
+As this is kinda of a big project, and at the current time I am a beginner programmer, as I \
+improve my skills I'll be going back to this project, and making new implementations.
 
 </div>
 
