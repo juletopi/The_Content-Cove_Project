@@ -17,7 +17,7 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/219552460-47e99139-3f4b-41aa-a0bd-d592721062ae.png" alt="TheContentCove-pic" width="124px"></a>
+<a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ContentCove-pic.png"><img src="https://user-images.githubusercontent.com/76459155/219552460-47e99139-3f4b-41aa-a0bd-d592721062ae.png" alt="TheContentCove-pic" width="124px"></a>
 <h2 align="center">The Content-Cove Project 🎞️</h2>
 
 #### <a href="https://juletopi.github.io/The_Content-Cove_Project/"> **Explore the website by clicking here »**</a>
@@ -119,8 +119,8 @@ website for trailers and synopses of movies, games, anime and much more!
 
 ## 📋 About The Project
 
-> <img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="MarioMovie-pic" style="width: 29%;">
-> <img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="MarioMovie-pic" style="width: 69%;">
+> <a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ContentPageMobile-pic.png"><img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="ContentPageMobile" style="width: 29%;"></a>
+> <a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ContentPageDesktop-pic.png"><img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="ContentPageDesktop-pic" style="width: 69%;"></a>
 <br>
 
 <div align="left">
@@ -143,6 +143,8 @@ As this is kinda of a big project, and at the current time I am a beginner progr
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
 
+<!-- HOW TO USE -->
+
 <div align="left">
 
 ## ❓ How to Use
@@ -163,6 +165,10 @@ The use of browsers with support for experience with GitHub, and using the lates
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
+
+<div align="left">
+
+<!-- AUTHOR -->
 
 <div align="left">
 
@@ -196,7 +202,7 @@ The use of browsers with support for experience with GitHub, and using the lates
 ----
 
 <div align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/220281675-4c3d3f10-b3e3-4175-ad61-620138f66ce9.png" align="center" width="600" height="90" alt="ThanksForVisiting(Orange)-pic"/></a>
+<a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ThanksForVisiting(Orange)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/220281675-4c3d3f10-b3e3-4175-ad61-620138f66ce9.png" align="center" width="600" height="90" alt="ThanksForVisiting(Orange)-pic"/></a>
 </div>
 
 <div align="center">
