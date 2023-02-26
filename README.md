@@ -131,7 +131,7 @@ Originally, this was a project created by the [Irmãos Dev em Dobro](https://www
 (Double Dev Week), after the end of this dev week, I decided to take this project to another level.
 
 What main implementations will be made:
-* A main "**Home**" with information about the site and a section with cards of /
+* A main "**Home**" with information about the site and a section with cards of \
 movies, games and anime to choose from.
 * Different **custom webpages** for each of the movies, games, and anime previously present on the cards.
 
