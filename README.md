@@ -39,10 +39,8 @@ website for trailers and synopses of movies, games, anime and much more!
 </div>
 
 <div align="center">
-<a href="https://github.com/juletopi/The_Content-Cove_Project">View Demo</a>
-•
-<a href="https://github.com/juletopi/The_Content-Cove_Project/issues">Report Bug</a>
-•
+<a href="https://github.com/juletopi/The_Content-Cove_Project">View Demo</a> &#xa0; • &#xa0;
+<a href="https://github.com/juletopi/The_Content-Cove_Project/issues">Report Bug</a> &#xa0; • &#xa0;
 <a href="https://github.com/juletopi/The_Content-Cove_Project/discussions">Request Feature</a>
 </div>
 
