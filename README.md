@@ -176,7 +176,7 @@ The use of browsers with support for experience with GitHub, and using the lates
 <sub><b>Júlio Cézar | Juletopi</b></sub></a>
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="left" width="40%">
 
 <div align="left">
 
@@ -184,7 +184,6 @@ The use of browsers with support for experience with GitHub, and using the lates
 - <img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="20" alt="Facebook-icon"> Email - [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)
 - <img align="center" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="20" alt="WhatsApp-icon"> Whatsapp - [+55 (69) 9 9360-6894](http://api.whatsapp.com/send?phone=5569993606894)
 - <img align="center" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="20" alt="Instagram-icon"> Instagram - [@juletopi](https://www.instagram.com/juletopi/)
-
 </div>
 
 </td></tr></table>
