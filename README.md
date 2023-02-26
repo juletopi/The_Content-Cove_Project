@@ -162,8 +162,8 @@ You can access the website by the link: https://juletopi.github.io/The_Content-C
 
 To access the website all you need is a **internet browser** and **internet connection**.
 
-The use of browsers with support for experience with GitHub, and using the latest version of the \
-browser like **Chrome**, **Edge**, **Firefox** or **Safari**, is recommended.
+The use of browsers with support for experience with GitHub, and using the latest \
+version of the browser like **Chrome**, **Edge**, **Firefox** or **Safari**, is recommended.
 
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
