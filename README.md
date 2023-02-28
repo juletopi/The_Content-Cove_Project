@@ -26,7 +26,7 @@
 
 <div align="center">
 
-• Repository of my project called "**The Content-Cove**", a fictitious \
+• This is the epository of my project called "**The Content-Cove**", a fictitious \
 website for trailers and synopses of movies, games, anime and much more!
 </div>
 
@@ -83,13 +83,13 @@ website for trailers and synopses of movies, games, anime and much more!
 
 - [ ] Content Templates ↴
     - [ ] HTML, CSS, JavaScript ↴
-        - [X] Add Header and Navigation
-        - [X] Add Main Info.
-        - [X] Add Main Image
+        - [X] <del>Add Header and Navigation</del>
+        - [X] <del>Add Main Info.</del>
+        - [X] <del>Add Main Image</del>
         - [ ] Add Video Modal
-        - [X] Add Linking
-        - [X] Add Styling
-        - [X] Add Responsiveness
+        - [X] <del>Add Linking</del>
+        - [X] <del>Add Styling</del>
+        - [X] <del>Add Responsiveness</del>
 - [ ] Home Page ↴
     - [ ] HTML, CSS, JavaScript ↴
         - [ ] Add Header and Navigation
@@ -100,7 +100,7 @@ website for trailers and synopses of movies, games, anime and much more!
         - [ ] Add Styling
         - [ ] Add Responsiveness
 - [ ] Multi-language Support ↴
-    - [X] English
+    - [X] <del>English</del>
     - [ ] Spanish
     - [ ] Brazilian Portuguese
 </div>
