@@ -81,17 +81,17 @@ website for trailers and synopses of movies, games, anime and much more!
 
 <div align="left">
 
-- [ ] Content Templates ↴
-    - [ ] HTML, CSS, JavaScript ↴
+- [ ] **Content Templates** ↴
+    - [ ] **HTML, CSS, JavaScript** ↴
         - [X] <del>Add Header and Navigation</del>
         - [X] <del>Add Main Info.</del>
         - [X] <del>Add Main Image</del>
-        - [ ] Add Video Modal
+        - [ ] **Add Video Modal**
         - [X] <del>Add Linking</del>
         - [X] <del>Add Styling</del>
         - [X] <del>Add Responsiveness</del>
-- [ ] Home Page ↴
-    - [ ] HTML, CSS, JavaScript ↴
+- [ ] **Home Page** ↴
+    - [ ] **HTML, CSS, JavaScript** ↴
         - [ ] Add Header and Navigation
         - [ ] Add Main Info.
         - [ ] Add Main Image
@@ -99,7 +99,7 @@ website for trailers and synopses of movies, games, anime and much more!
         - [ ] Add Linking
         - [ ] Add Styling
         - [ ] Add Responsiveness
-- [ ] Multi-language Support ↴
+- [ ] **Multi-language Support** ↴
     - [X] <del>English</del>
     - [ ] Spanish
     - [ ] Brazilian Portuguese
