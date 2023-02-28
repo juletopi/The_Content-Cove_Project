@@ -26,7 +26,7 @@
 
 <div align="center">
 
-• This is the epository of my project called "**The Content-Cove**", a fictitious \
+• This is the repository of my project called "**The Content-Cove**", a fictitious \
 website for trailers and synopses of movies, games, anime and much more!
 </div>
 
