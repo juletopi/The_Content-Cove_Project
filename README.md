@@ -86,7 +86,7 @@ website for trailers and synopses of movies, games, anime and much more!
         - [X] <del>Add Header and Navigation</del>
         - [X] <del>Add Main Info.</del>
         - [X] <del>Add Main Image</del>
-        - [ ] **Add Video Modal**
+        - [ ] Add Video Modal
         - [X] <del>Add Linking</del>
         - [X] <del>Add Styling</del>
         - [X] <del>Add Responsiveness</del>
