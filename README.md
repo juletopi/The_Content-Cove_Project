@@ -117,8 +117,13 @@ website for trailers and synopses of movies, games, anime and much more!
 
 ## 📋 About The Project
 
+### 🖼️ Content Pages
+
 > <a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ContentPageMobile-pic.png"><img src="https://user-images.githubusercontent.com/76459155/220253860-131fb405-cfe4-4349-a2ef-7e3f44d80239.png" alt="ContentPageMobile" style="width: 29%;"></a>
 > <a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ContentPageDesktop-pic.png"><img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="ContentPageDesktop-pic" style="width: 69%;"></a>
+
+### 🏠 Home Page
+> **Note** ➜ *Coming soon...*
 <br>
 
 <div align="left">
