@@ -21,6 +21,9 @@
 <h2 align="center">The Content-Cove Project 🎞️</h2>
 
 #### <a href="https://juletopi.github.io/The_Content-Cove_Project/"> **Explore the website by clicking here »**</a>
+↑ \
+<sub><b>"Use `crtl + click` to open a new window!"</sub>
+
 
 </div>
 
@@ -156,7 +159,8 @@ I improve my skills I'll be going back to this project, and making new implement
 
 ## ❓ How to Use
 
-You can access the website by the link: https://juletopi.github.io/The_Content-Cove_Project/.
+You can access the website by the link: https://juletopi.github.io/The_Content-Cove_Project/. \
+<sub><b>"Use `crtl + click` to open a new window!"</sub>
 
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
