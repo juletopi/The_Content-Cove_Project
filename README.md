@@ -20,9 +20,8 @@
 <a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ContentCove-pic.png"><img src="https://user-images.githubusercontent.com/76459155/219552460-47e99139-3f4b-41aa-a0bd-d592721062ae.png" alt="TheContentCove-pic" width="124px"></a>
 <h2 align="center">The Content-Cove Project 🎞️</h2>
 
-#### <a href="https://juletopi.github.io/The_Content-Cove_Project/"> **Explore the website by clicking here »**</a>
-↑ \
-<sub><b>"You can use `ctrl + click` to open a new window!"</sub>
+<a href="https://juletopi.github.io/The_Content-Cove_Project/"> **Explore the website by clicking here »**</a> \
+<sub>**"Use `ctrl + click` to open a new window!"**</sub>
 
 
 </div>
@@ -160,7 +159,7 @@ I improve my skills I'll be going back to this project, and making new implement
 ## ❓ How to Use
 
 You can access the website by the link: https://juletopi.github.io/The_Content-Cove_Project/. \
-<sub><b>"You can use `ctrl + click` to open a new window!"</sub>
+<sub>**"Use `ctrl + click` to open a new window!"**</sub>
 
 <h6 align="left">
 <a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
