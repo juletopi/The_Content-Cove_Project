@@ -145,8 +145,8 @@ body {
 
 .modal iframe {
 	border-width: 0;
-	width: 640vw;
-	height: 360vh;
+	width: 65vw;
+	height: 75vh;
 }
 
 .modal.open {
