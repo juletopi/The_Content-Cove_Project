@@ -77,7 +77,7 @@ website for trailers and synopses of movies, games, anime and much more!
 <div align="center">
 
 > **Warning** \
-> This is a project **IN PROGRESS**
+> This project is **IN PROGRESS**
 >
 > **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/25?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e"></a>
 
