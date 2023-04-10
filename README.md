@@ -69,17 +69,18 @@
 
 <!-- SUMMARY -->
 
-<div align="center">
+<h2 align="center">Summary 🧾</h2>
 
-## Summary 🧾
-<p align="center">
-<a href="#-project-progress">Project Progress</a> &#xa0; | &#xa0;
-<a href="#-about-the-project">About the Project</a> &#xa0; | &#xa0;
-<a href="#-how-to-use">How to Use</a>
-</p>
-<a href="#-prerequisites">Prerequisites</a> &#xa0; | &#xa0;
-<a href="#-author">Author</a>
-</p>
+<div align="center">
+  <p align="center">
+    <a href="#-project-progress">Project Progress</a> &#xa0; | &#xa0;
+    <a href="#-about-the-project">About the Project</a> &#xa0; | &#xa0;
+    <a href="#-how-to-use">How to Use</a>
+  </p>
+  <p align="center">
+    <a href="#-prerequisites">Prerequisites</a> &#xa0; | &#xa0;
+    <a href="#-author">Author</a>
+  </p>
 </div>
 
 <div align="center">
@@ -96,6 +97,8 @@
 > This project is **IN PROGRESS**
 >
 > **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/25?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e"></a>
+
+</div>
 
 <div align="left">
 
@@ -132,8 +135,6 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-
-<div align="left">
 
 ## 📋 About The Project
 
