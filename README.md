@@ -222,20 +222,20 @@
         </a>
       </div>
     </td>
-    <td valign="left" width="40%">
+    <td valign="left" width="100%">
       <div align="left">
         <ul>
           <li>
-            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn-icon"> LinkedIn - <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">Júlio Cézar P. Camargo</a>
+            <sub><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="15" alt="LinkedIn-icon"> LinkedIn - <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">Júlio Cézar P. Camargo</a></sub>
           </li>
           <li>
-            <img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="20" alt="Facebook-icon"> Email - <a href="mailto:juliocezarpvh@hotmail.com">juliocezarpvh@hotmail.com</a>
+            <sub><img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="15" alt="Facebook-icon"> Email - <a href="mailto:juliocezarpvh@hotmail.com">juliocezarpvh@hotmail.com</a></sub>
           </li>
           <li>
-            <img align="center" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="20" alt="WhatsApp-icon"> Whatsapp - <a href="http://api.whatsapp.com/send?phone=5569993606894">+55 (69) 9 9360-6894</a>
+            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="15" alt="WhatsApp-icon"> Whatsapp - <a href="http://api.whatsapp.com/send?phone=5569993606894">+55 (69) 9 9360-6894</a></sub>
           </li>
           <li>
-            <img align="center" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="20" alt="Instagram-icon"> Instagram - <a href="https://www.instagram.com/juletopi/">@juletopi</a>
+            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="15" alt="Instagram-icon"> Instagram - <a href="https://www.instagram.com/juletopi/">@juletopi</a></sub>
           </li>
         </ul>
       </div>
