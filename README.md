@@ -247,6 +247,8 @@
   <h6><a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
 </div>
 
+<br>
+
 <!-- THANK YOU, GOODBYE -->
 
 ----
