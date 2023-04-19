@@ -127,7 +127,7 @@
 </div>
 
 <div align="left">
-  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
+  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 </div>
 
 <div align="center">
@@ -167,7 +167,7 @@
 </div>
 
 <div align="left">
-  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
+  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 </div>
 
 <div align="center">
@@ -185,7 +185,7 @@
 </div>
 
 <div align="left">
-  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
+  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 </div>
 
 ## 🛠 Prerequisites
@@ -200,7 +200,7 @@
 </div>
  
 <div align="left">
-  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
+  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 </div>
 
 <div align="center">
@@ -244,7 +244,7 @@
 </table>
 
 <div align="left">
-  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Voltar para o início ↺</a></h6>
+  <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 </div>
 
 <br>
