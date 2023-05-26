@@ -10,7 +10,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/github/license/juletopi/The_Content-Cove_Project" alt="MITLiscence-badge">
-  <img src="https://github-visitors-badge.glitch.me/badge?page_id=The_Content-Cove_Project.github-visitors-badge" alt="PageVisitors-badge">
 </div>
 
 <br>
