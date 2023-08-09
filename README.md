@@ -92,7 +92,7 @@
 
 <div align="center">
 
-> **Warning** \
+> [!WARNING]\
 > This project is **IN PROGRESS**
 >
 > **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/25?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e"></a>
@@ -143,7 +143,9 @@
 > <a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ContentPageDesktop-pic.png"><img src="https://user-images.githubusercontent.com/76459155/220253813-0789b2fe-eff1-4a38-bbea-3bdc58ae08a9.png" alt="ContentPageDesktop-pic" title="Desktop Page View" style="width: 69%;"></a>
 
 ### 🏠 Home Page
-> **Note** ➜ *Coming soon...*
+
+> [!NOTE]\
+> *Coming soon...*
 
 <br>
 
