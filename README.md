@@ -95,7 +95,7 @@
 > [!WARNING]\
 > This project is **IN PROGRESS**
 >
-> **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/25?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e"></a>
+> **Status:** <a href="#"><img align="center" src="https://geps.dev/progress/30?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e"></a>
 
 </div>
 
