@@ -261,5 +261,5 @@
 </div>
 
 <div align="center">
-  Made with 🧡 by Juletopi
+  Made with 🧡 by <a href="https://github.com/juletopi"> Juletopi</a>.
 </div>
