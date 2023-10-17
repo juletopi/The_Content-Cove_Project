@@ -83,10 +83,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
-</div>
-
 <!-- PROJECT PROGRESS -->
 
 ## ✅ Project Progress
