@@ -9,7 +9,7 @@
 -->
 
 <div align="left">
-  <img src="https://img.shields.io/github/license/juletopi/The_Content-Cove_Project" alt="MITLiscence-badge">
+  <img src="https://img.shields.io/github/license/juletopi/The_Content-Cove_Project" alt="Licence-badge">
   <img src="https://img.shields.io/badge/project%20status:-in%20progress-ef934a" alt="ProjectProgress-badge">
 </div>
 
