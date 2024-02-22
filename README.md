@@ -252,8 +252,8 @@
 ----
 
 <div align="center">
-  <a href="https://github.com/juletopi/The_Content-Cove_Project/blob/main/Assets%20(README)/Images/ThanksForVisiting(Orange)-pic.png">
-    <img src="https://user-images.githubusercontent.com/76459155/220281675-4c3d3f10-b3e3-4175-ad61-620138f66ce9.png" align="center" width="600" height="90" alt="ThanksForVisiting(Orange)-pic" title="Bye bye! :)" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=FF7723&center=true&vCenter=true&repeat=false&width=620&height=70&lines=Thanks+for+visiting%2C++see+ya+around!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
   </a>
 </div>
 
