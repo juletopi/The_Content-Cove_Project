@@ -26,7 +26,7 @@
 
 <div align="center">
 
-  <a href="https://juletopi.github.io/The_Content-Cove_Project/">**« Explore the website by clicking here »**</a> \
+  <a href="https://juletopi.github.io/The_Content-Cove_Project/">**» Explore the website by clicking here «**</a> \
     <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
 
