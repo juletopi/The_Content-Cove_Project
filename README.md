@@ -63,9 +63,7 @@
 <a href="https://github.com/juletopi/The_Content-Cove_Project/discussions">Request Feature</a>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
-</div>
+<br>
 
 <!-- SUMMARY -->
 
@@ -126,9 +124,7 @@
   <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
-</div>
+<br>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -143,8 +139,6 @@
 
 > [!NOTE]\
 > *Coming soon...*
-
-<br>
 
 <div align="left">
 
@@ -166,10 +160,6 @@
 
 <div align="left">
   <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
-</div>
-
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
 </div>
 
 <!-- HOW TO USE -->
@@ -201,9 +191,7 @@
   <h6><a href="#the-content-cove-project-%EF%B8%8F"> Back to top ↺</a></h6>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF7723&height=4&section=header&%20render">
-</div>
+<br>
 
 <!-- AUTHOR -->
 
@@ -252,11 +240,5 @@
 ----
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=FF7723&center=true&vCenter=true&repeat=false&width=620&height=70&lines=Thanks+for+visiting%2C++see+ya+around!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
-  </a>
-</div>
-
-<div align="center">
-  Made with 🧡 by <a href="https://github.com/juletopi"> Juletopi</a>.
+  Made with 🧡 and ☕ by <a href="https://github.com/juletopi"> Juletopi</a>.
 </div>
