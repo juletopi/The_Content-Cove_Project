@@ -246,7 +246,7 @@
     <td colspan="2" align="center">
       <img src="https://juletopi.github.io/JCPC_Portfolio/src/images/initialsLogo.png" width="25" alt="Portfolio" align="center"/>
       Portfolio —
-      <a href="https://linktr.ee/juletopi" target="_blank" rel="noopener noreferrer" aria-label="Portfolio - Juletopi">
+      <a href="https://juletopi.github.io/JCPC_Portfolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio - Juletopi">
         juletopi.github.io/JCPC_Portfolio
       </a>
     </td>
